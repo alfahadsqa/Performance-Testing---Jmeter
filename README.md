@@ -1,7 +1,7 @@
 # performance testing-with-JMeter
 # Biyeta.com--performance testing
 
-Summary: I’ve completed performance test on frequently used webpages for Biyta.com.
+Summary: I’ve completed performance test on frequently used webpage for "Biyta.com".
 Test executed for the below mentioned scenario in server 000.000.000.00.
 
 150 Concurrent Request with 10 Loop Count; Avg TPS for Total Samples is ~ 6 And Total Concurrent API requested: 3000.
